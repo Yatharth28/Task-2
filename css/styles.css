@@ -1,0 +1,39 @@
+#carouselControls {
+  width: 75%;
+  margin: auto;
+  height: 60%;
+}
+
+.carousel-caption {
+  margin-bottom: 20%;
+}
+
+.text-left {
+  font-size: 3.5rem;
+  font-weight: bolder;
+  margin-top: auto;
+}
+
+.text-right {
+  font-size: 1.25rem;
+}
+
+.main-container {
+  background-color: grey;
+  font-family: "Delius Unicase", cursive;
+}
+
+.carousel-inner>.carousel-item>img {
+  width: 30%;
+  height: 50%;
+  align-content: center;
+}
+
+.carousel-control-next, .carousel-control-prev {
+  width: 1.5rem;
+  height: 1.5rem;
+  margin-top: 65vh;
+  margin-left: 100vh;
+  margin-right: 25vh;
+  background-color: black;
+}
